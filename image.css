@@ -1,0 +1,6 @@
+body{margin: 0px;}
+#nav{display:flex; justify-content:flex-end; margin-top: 20px;}
+#nav a{margin-right: 30px;}
+#image{text-align: center; margin-top: 100px;}
+#search{text-align: center;}
+#searchbar{padding-top: 10px; padding-bottom: 10px; width: 500px; border-radius: 10px; border: 1px solid rgba(216, 199, 199, 0.904);}

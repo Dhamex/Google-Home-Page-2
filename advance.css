@@ -1,0 +1,15 @@
+body{margin: 0px;}
+#image{background-color: rgb(148, 141, 141);}
+#image img{height: 50px;}
+#buttons{display: flex; justify-content:center;}
+#k{width: 640px;}
+#l{width: 576px;}
+#m{width: 618px;}
+#n{width: 620px;}
+#o{width: 300px;}
+#p{width: 270px;}
+#form{margin-left: 20px;}
+.button{margin-left: 10px; margin-right: 20px; padding: 5px 10px; background: rgb(80, 96, 190); border-radius: 10px;}
+#adv{margin-left: 20px; border-bottom:2px rgb(148, 141, 141) dashed;}
+p{color: red;}
+#image a{float: right; margin-top: 0px; margin-right:20px; }
